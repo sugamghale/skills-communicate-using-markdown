@@ -20,3 +20,7 @@ echo "Your name is Sugam";
 ``` c
 printf("Hello world");
 ```
+
+- [ ] Open YouTube and watch tutorials
+- [x] Login to google search console
+- [x] Modify the URL
